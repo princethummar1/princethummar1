@@ -59,19 +59,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=princethummar1&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-## GitHub Activity
-<a href="https://github.com/princethummar1">
-  <img alt="Prince's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=princethummar1&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true" />
-</a>
 
+## Top Languages & Activity
 
 <div align="center">
   <table>
     <tr>
-      
       <td valign="top">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princethummar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Prince's Top Languages"/>
+                <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princethummar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Prince's Top Languages"/>
+      </td>
+      <td valign="top">
+                <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=princethummar1&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true" alt="Prince's Activity Graph"/>
       </td>
     </tr>
   </table>
 </div>
+
+
