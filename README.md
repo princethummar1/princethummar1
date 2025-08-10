@@ -17,7 +17,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" ></img>
 - 🌱 I’m currently learning **Advanced Backend Systems and Cloud Deployment**.
 - 💻 My projects are available on this **GitHub profile**.
-- 💬 Ask me about **React, Node.js, Django, Python, and Flask**.
+- 💬 Ask me about **React, Node.js, Django, Python**.
 - 📫 How to reach me: <a href="mailto:princethummar199@gmail.com">princethummar199@gmail.com</a>
 - 📄 Learn more about my experiences on my [**LinkedIn Profile**](https://linkedin.com/in/princethummar).
 
