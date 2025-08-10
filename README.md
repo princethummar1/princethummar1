@@ -58,6 +58,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=princethummar1&show_icons=true&theme=github_dark&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=princethummar1&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=princethummar1&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
+
+## GitHub Activity
+<a href="https://github.com/princethummar1">
+  <img alt="Prince's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=princethummar1&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true" />
+</a>
+
+
+<div align="center">
+  <table>
+    <tr>
+      
+      <td valign="top">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princethummar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Prince's Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
