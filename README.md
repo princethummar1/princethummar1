@@ -5,9 +5,8 @@
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=princethummar1&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height=25px, width=160px/> 
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250">
-</p>
+
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250">
 - 🌱 I’m currently learning **Advanced Backend Systems and Cloud Deployment**.
 - 💻 My projects are available on this **GitHub profile**.
 - 💬 Ask me about **React, Node.js, Django, Python, and Flask**.
