@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning **Advanced Backend Systems and Cloud Deployment**.
 - 💻 My projects are available on this **GitHub profile**.
 - 💬 Ask me about **React, Node.js, Django, Python, and Flask**.
-- 📫 How to reach me: **[princethummar199@gmail.com](mailto:princethummar199@gmail.com)**
+- 📫 How to reach me: <a href="mailto:princethummar199@gmail.com">princethummar199@gmail.com</a>
 - 📄 Learn more about my experiences on my [**LinkedIn Profile**](https://www.linkedin.com/in/prince-thummar-a74aa827a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
 
 
 ### Connect with me 🔗 :
@@ -21,7 +22,7 @@
 <a href="mailto:princethummar199@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prince-thummar-a74aa827a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://linkedin.com/in/princethummar" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://github.com/princethummar1" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
