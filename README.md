@@ -1,19 +1,24 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Prince+Thummar;Computer+Science+Student;Full-Stack+Developer;AI%2FML+Enthusiast;%40princethummar1">
-</p>
-<p align='center'>
-    <img src="https://komarev.com/ghpvc/?username=princethummar1&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height=25px, width=160px/> 
+<p align="center">
+  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 </p>
 
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250">
+<p align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Prince+Thummar;Computer+Science+Student;Full-Stack+Developer;AI%2FML+Enthusiast;%40princethummar1">
+</p>
+
+<p align='center'>
+    <img src="https://komarev.com/ghpvc/?username=princethummar1&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height=25px, width=160px/> 
+</p>
+
+<br>
+
 - 🌱 I’m currently learning **Advanced Backend Systems and Cloud Deployment**.
 - 💻 My projects are available on this **GitHub profile**.
 - 💬 Ask me about **React, Node.js, Django, Python, and Flask**.
 - 📫 How to reach me: <a href="mailto:princethummar199@gmail.com">princethummar199@gmail.com</a>
-- 📄 Learn more about my experiences on my [**LinkedIn Profile**](https://www.linkedin.com/in/prince-thummar-a74aa827a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+- 📄 Learn more about my experiences on my [**LinkedIn Profile**](https://linkedin.com/in/princethummar).
 
-
+<br>
 
 ### Connect with me 🔗 :
 <br>
