@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=princethummar1&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height=25px, width=160px/> 
 </p>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="280" height="280"></img>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" style='margin:1rem'></img>
 
 - 🌱 I’m currently learning **Advanced Backend Systems and Cloud Deployment**.
 - 💻 My projects are available on this **GitHub profile**.
