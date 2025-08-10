@@ -1,6 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Prince+Thummar;Software+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;%40princethummar1">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Prince+Thummar;Computer+Science+Student;Full-Stack+Developer;AI%2FML+Enthusiast;/>
 </p>
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=princethummar1&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height=25px, width=160px/> 
